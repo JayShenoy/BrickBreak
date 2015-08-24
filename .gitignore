@@ -1,2 +1,5 @@
 web-files/
 private/
+
+*.html
+*.jnlp
